@@ -1,0 +1,25 @@
+[
+  {
+    "id": "u222",
+    "email": "alice.patient@app.com",
+    "password": "pass",
+    "role": "patient",
+    "name": "Alice Dubois",
+    "adresse": "10 rue du Jardin"
+  },
+  {
+    "id": "u333",
+    "email": "mme.lefevre@app.com",
+    "password": "pass",
+    "role": "pharmacien",
+    "name": "Mme. Lefevre",
+    "pharmacieId": "p001"
+  },
+  {
+    "id": "u111",
+    "email": "dr.dupont@app.com",
+    "password": "pass",
+    "role": "medecin",
+    "name": "Dr. Dupont"
+  }
+]

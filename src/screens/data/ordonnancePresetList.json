@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ord1",
+    "patientId": "u111",
+    "date": "2024-01-15",
+    "medicaments": [
+      {
+        "id": "m1",
+        "idMedicament": "m1",
+        "nom": "Doliprane",
+        "quantiteParJour": 3,
+        "duree": 7,
+        "notes": "Prendre en cas de douleur"
+      },
+      {
+        "id": "m2", 
+        "idMedicament": "m2",
+        "nom": "Spasfon",
+        "quantiteParJour": 2,
+        "duree": 5,
+        "notes": "En cas de spasmes"
+      }
+    ],
+    "notesMedecin": "Repos recommandé pendant 7 jours"
+  },
+  {
+    "id": "ord2",
+    "patientId": "u111", 
+    "date": "2024-02-01",
+    "medicaments": [
+      {
+        "id": "m3",
+        "idMedicament": "m3",
+        "nom": "Smecta",
+        "quantiteParJour": 2,
+        "duree": 3,
+        "notes": "Avant les repas"
+      }
+    ],
+    "notesMedecin": "Traitement pour troubles digestifs"
+  }
+]

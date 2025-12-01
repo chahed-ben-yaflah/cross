@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p101",
+    "nom": "Pharmacie Centrale",
+    "adresse": "12 Rue de la Liberté, 75001 Paris",
+    "pharmacienId": "u333"
+  },
+  {
+    "id": "p102",
+    "nom": "Pharmacie de la Gare",
+    "adresse": "5 Avenue Jean Jaurès, 69007 Lyon",
+    "pharmacienId": "u444"
+  },
+  {
+    "id": "p103",
+    "nom": "Pharmacie des Lilas",
+    "adresse": "45 Boulevard Voltaire, 31000 Toulouse",
+    "pharmacienId": "u555"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "m001",
+    "nom": "Doliprane",
+    "dosage": "500 mg",
+    "forme": "Comprimé",
+    "quantiteStock": 120
+  },
+  {
+    "id": "m002",
+    "nom": "Amoxicilline",
+    "dosage": "1000 mg",
+    "forme": "Gélule",
+    "quantiteStock": 50
+  },
+  {
+    "id": "m003",
+    "nom": "Spasfon",
+    "dosage": "80 mg",
+    "forme": "Lyoc",
+    "quantiteStock": 85
+  }
+]
